@@ -12,5 +12,7 @@
 # 4- Tell me how to delete tag locally and remotely.
 ## locally use (git push origin --delete <tag name>)
 ## remotly use (git tag -d <tag name>)
+---
+# 5- Add an image in the README.md file.
+## use (![Logo](https://example.com/logo.png))
 
-![Demo](https://github.com/yourusername/yourrepo/blob/main/images/demo.gif?raw=true)
