@@ -14,5 +14,5 @@
 ## remotly use (git tag -d <tag name>)
 ---
 # 5- Add an image in the README.md file.
- use (![Logo](https://example.com/logo.png))
+## use (![Logo](https://example.com/logo.png))
 
